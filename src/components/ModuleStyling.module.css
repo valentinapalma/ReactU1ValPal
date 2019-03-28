@@ -1,0 +1,33 @@
+.dashboard {
+    display:flex;
+margin:0px;
+padding:0px;
+}
+
+.card {
+    position: relative;
+    margin: auto;
+    margin-top:70px;
+    height: 300px;
+    width: 250px;
+    background: linear-gradient(#E96874, #6E3663, #2B0830);
+    border-radius: 2px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color: #fff;
+    padding: 30px;
+  }
+
+  .button {
+    margin-top: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.548);
+    border-radius:5px;
+    background-color: rgba(255, 204, 204, 0);
+    color: #fff;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
